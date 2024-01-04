@@ -1,4 +1,3 @@
-print('Hello world!', end=" ")
-print('Pass this test, ', end= ' ')
+print('Hello World!', end=" ")
+print('Pass this test, ', end='')
 print('please.')
-      
